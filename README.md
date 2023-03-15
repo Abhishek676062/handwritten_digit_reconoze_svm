@@ -1,0 +1,2 @@
+# handwritten_digit_reconoze_svm
+handwritten_digit_reconoze_svm
